@@ -1,0 +1,39 @@
+.test .box4{
+	padding: 10px 15px; 
+	border: 3px solid #eee;
+	background-color: #eee;
+	text-align: left;
+}
+.test .box4:hover{
+	background-color: white;
+}
+.test .box4 h2{
+	color: #4AA9C3;
+	padding: 0px; 
+	margin: 0;
+	border:none;
+	font-size:16px;
+	font-weight: bolder;
+
+}
+.test .box4 p{
+	color: black; 
+	padding: 0px; 
+	text-align:left;
+	font-size:14px;
+}
+.test a{
+	color: #ccc;
+	font-size: 14px;
+}
+.test .next ul li{
+	display: inline;
+	border: none;
+	padding: 5px;
+}
+.test .next ul li:hover{
+	border: none;
+}
+.test .next .n a:hover{
+	color: #4AA9C3;
+}
